@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "WireTrace",
+  "version": "1.0",
+  "description": "Captura Fetch/XHR e exporta como Python requests. By github.com/victorlgim",
+  "author": "victorlgim — github.com/victorlgim",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "downloads",
+    "tabs",
+    "windows",
+    "webNavigation",
+    "cookies"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": { "48": "icon.png" }
+  }
+}
