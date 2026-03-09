@@ -2,13 +2,13 @@
 
 > Captura requisições Fetch/XHR de qualquer site e exporta como script Python pronto para reuso.
 
-![WireTrace screenshot](screenshot.png)
-
 ![Version](https://img.shields.io/badge/version-1.0-red?style=flat-square)
 ![Manifest](https://img.shields.io/badge/manifest-v3-blue?style=flat-square)
 ![Browser](https://img.shields.io/badge/browser-Chrome-yellow?style=flat-square)
 
 ---
+
+![WireTrace screenshot](screenshot.png)
 
 ## O que é
 
