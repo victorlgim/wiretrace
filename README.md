@@ -12,6 +12,8 @@
 
 WireTrace é uma extensão para Chrome voltada para desenvolvedores e pentesters. Ela intercepta todas as requisições `fetch` e `XMLHttpRequest` feitas por um site, captura headers, body, status e cookies reais (incluindo HttpOnly), e gera automaticamente um script Python com `requests` pronto para reproduzir cada chamada.
 
+![WireTrace screenshot](screenshot.png)
+
 ---
 
 ## Funcionalidades
